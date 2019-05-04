@@ -1,0 +1,5 @@
+intersection A source 10.0 10 1.0
+intersection B sink
+intersection C sink
+road A B 5.0
+road A C 10.0

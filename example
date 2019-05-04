@@ -1,0 +1,9 @@
+intersection a nostop 1
+road a a 1
+intersection b stoplight 1 5
+road a b 1
+road b a 1
+intersection c source 10 10 1
+road c b 1
+intersection d sink
+road b d 1
